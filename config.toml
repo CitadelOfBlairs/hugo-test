@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Test Hugo Site"
+theme = "hugo-test-theme"
+
+[taxonomies]
+category = "categories"
+group = ""
+tag = ""
